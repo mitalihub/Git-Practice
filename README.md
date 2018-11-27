@@ -1,2 +1,2 @@
 # Git-Practice
-Practice for interview
+Practice for interview GIT
